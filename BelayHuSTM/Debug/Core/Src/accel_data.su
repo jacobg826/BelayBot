@@ -1,0 +1,7 @@
+accel_data.c:50:10:get_elapsed_time	24	static
+accel_data.c:69:6:write_reg	24	static
+accel_data.c:92:6:read_reg	32	static
+accel_data.c:109:6:accel_setup	32	static
+accel_data.c:140:6:read_accel_data	24	static
+accel_data.c:162:6:read_data_i2c	56	static
+accel_data.c:196:6:setup_MPU	48	static
