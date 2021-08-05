@@ -1,7 +1,7 @@
 # BelayHu
 ## EE 475 Capstone Project
 #### Anton Soderqvist, Jacob Gervais, Nick Righi, Kushaun Kak, Kaijun Gao
-
+### Where to watch the [Demo](https://www.youtube.com/watch?v=drQGYvJ-_U8&ab_channel=JacobGervais)
 ### Project Description:
 
 This project utilizes a STM32 and a Raspberry Pi to create an embedded system that belays a climber as they ascend. 
@@ -17,3 +17,5 @@ the Raspberry Pi then controls a winch connected via GPIO pins.
 To view the code for the Raspberry Pi go to `BelayBot/BelayHuRasPi`
 
 To view the code for the STM32 go to `BelayBot/BelayHuSTM/Core/Src` and `BelayBot/BelayHuSTM/Core/Inc` 
+
+
